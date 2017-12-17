@@ -1,0 +1,11 @@
+<hull.model>
+  <tank>	true	</tank>
+  <projAreaCoeff>	1	</projAreaCoeff>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.65531 -0.596634 -3.48584</min>
+    <max>1.66119 0.596134 3.11936</max>
+  </visibilityBox>
+  <nodefullVisual>vehicles/Avalon's WoT Workshop/Ch01_Type59/normal/lod0/Hull</nodefullVisual>
+</hull.model>
